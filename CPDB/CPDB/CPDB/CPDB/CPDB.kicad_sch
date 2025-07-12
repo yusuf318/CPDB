@@ -4038,7 +4038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Bourns-SRN8040_8x8.15mm"
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_XAL4020-XXX"
 			(at 129.54 121.92 0)
 			(effects
 				(font
@@ -4789,7 +4789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Chilisin_BMRF00131350"
+		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA6045S"
 			(at 119.38 48.26 0)
 			(effects
 				(font

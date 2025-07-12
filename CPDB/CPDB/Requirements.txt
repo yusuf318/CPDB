@@ -1,0 +1,16 @@
+
+** Regülatör Tasarım 1 ** 
+
+https://www.snapeda.com/parts/TPS563240DDCR/Texas%20Instruments/view-part/?welcome=home&ref=search&t=+TPS563240
+
+https://www.snapeda.com/parts/TPS54302DDCR/Texas%20Instruments/view-part/?ref=search&t=%20TPS54302     FOOTPRINTI 285 ???
+
+
+
+
+
+Regülatör Tasarım 2 (Alternatif regülatör footprintleri):
+
+https://www.snapeda.com/parts/TPS56637RPAR/Texas%20Instruments/view-part/?welcome=home
+
+https://www.snapeda.com/parts/TPS54202DDCR/Texas%20Instruments/view-part/
